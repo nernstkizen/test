@@ -1,0 +1,17 @@
+{
+    "contents" : "x=5",
+    "created" : 1432163028823.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2583194727",
+    "id" : "DAC5C548",
+    "lastKnownWriteTime" : 1432163935,
+    "path" : "Z:/project/GitHub/test/f.R",
+    "project_path" : "f.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
