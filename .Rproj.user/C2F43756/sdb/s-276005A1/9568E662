@@ -1,0 +1,16 @@
+{
+    "contents" : "a=5\nb=6;\n\nc=a+b;",
+    "created" : 1432163290671.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "53218238",
+    "id" : "9568E662",
+    "lastKnownWriteTime" : 1432163858,
+    "path" : "Z:/project/GitHub/test/code.R.txt",
+    "project_path" : "code.R.txt",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "text"
+}
